@@ -2,3 +2,4 @@ remote_clone file
 44444
 test clone
 local_new_branch_1_modify
+local_1_2_modify
