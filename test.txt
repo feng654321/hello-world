@@ -3,3 +3,4 @@ remote_clone file
 test clone
 local_new_branch_1_modify
 local_1_2_modify
+origin_2
