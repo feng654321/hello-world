@@ -1,3 +1,4 @@
 remote_clone file
 44444
 test clone
+local_1_modify
